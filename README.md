@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @miralis221
-- 👀 I’m interested in machine learning an AI
-- 🌱 I’m currently learning C# languaje, Unity 2D and python with TensorFlow, javascript, HTML and css, NODEJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ¡Hola! Soy Erick 👋
 
-<!---
-miralis221/miralis221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Acerca de mí 🚀
+
+Soy un apasionado desarrollador de software con experiencia en varios lenguajes y tecnologías. Me encanta trabajar en proyectos que generen un impacto y aprender nuevas tecnologías y herramientas. ¡Siempre dispuesto a aceptar desafíos y crecer profesionalmente!
+
+### Habilidades y tecnologías 💻
+* **Lenguajes de programación**: Python, JavaScript, C++, C# etc.
+* **Frameworks y bibliotecas**: Django, Vue, etc.
+* **Bases de datos**: MySQL, MongoDB, PostgreSQL, etc.
+* **Control de versiones**: Git
+* **Videojuegos**: Unity3D y Unreal Engine
+## Contáctame 📬
+- **LinkedIn**: [Erick Mercado](https://www.linkedin.com/in/erickmrcd/)
+- **Correo electrónico**: erickmrcd@usal.es
+
+---
+
+⭐️ De [Erick](https://github.com/miralis221)
+
